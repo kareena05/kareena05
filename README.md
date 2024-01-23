@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi there 👋</div>
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D5603AQEQKv_t1O2XCg/profile-displayphoto-shrink_400_400/0/1689430541247?e=1711584000&v=beta&t=6mRY1ThwxX9uyTSsuooIshZmnZ9nLGeTV-7xa8zImEI" align="center" style="width: 30%;height:35%;border-radius:50%" />
 </div>  
