@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5603AQEQKv_t1O2XCg/profile-displayphoto-shrink_400_400/0/1689430541247?e=1711584000&v=beta&t=6mRY1ThwxX9uyTSsuooIshZmnZ9nLGeTV-7xa8zImEI" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5603AQEQKv_t1O2XCg/profile-displayphoto-shrink_400_400/0/1689430541247?e=1711584000&v=beta&t=6mRY1ThwxX9uyTSsuooIshZmnZ9nLGeTV-7xa8zImEI" align="center" style="width: 100%;height:60%" />
 </div>  
   
 
