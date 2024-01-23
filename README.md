@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5603AQEQKv_t1O2XCg/profile-displayphoto-shrink_400_400/0/1689430541247?e=1711584000&v=beta&t=6mRY1ThwxX9uyTSsuooIshZmnZ9nLGeTV-7xa8zImEI" align="center" style="width: 100%" />
 </div>  
   
 
@@ -76,7 +76,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/KareenaBalwani" target="_blank">
+<a href="https://github.com/KareenaBalwani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kareena-balwani-068505211" target="_blank">
@@ -101,7 +101,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
 
 <br/>  
 
@@ -112,13 +112,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ----
